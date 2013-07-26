@@ -27,6 +27,5 @@ setup(
         [ckan.plugins]
 	# Add plugins here, eg
 	# myplugin=ckanext.MYEXTENSION:PluginClass
-	usmetadata=ckanext.usmetadata.plugin:USMetadataPlugin
 	""",
 )
